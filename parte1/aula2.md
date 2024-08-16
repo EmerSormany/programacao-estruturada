@@ -213,14 +213,14 @@ Quando temos diferentes projetos que usam a linguagem Python é comum criarmos a
 
 ![Ambientes Virtuais Python](../img/venv.png)
 
-Para a versão 3.6+ estes ambientes virutais são criados com o comando.
+Para a versão 3.6+ estes ambientes virtuais são criados com o comando.
 
 ```sh
 python -m venv .venv
 source .env/bin/activate
 ```
 
-Para a versão 2.7 estes ambientes virutais são criados com o comando.
+Para a versão 2.7 estes ambientes virtuais são criados com o comando.
 
 ```sh
 virtualenv -p /usr/bin/python2 env
